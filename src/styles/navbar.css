@@ -1,0 +1,19 @@
+.contenedor {
+    width: 100rem;
+    margin-top: 2rem;
+    display: flex;
+    background-color: aliceblue;
+}
+
+.logo {
+    margin-right: 2rem;
+    width: 6rem;
+}
+.barra-navegacion {
+    justify-content: space-around;
+    font-size: 2rem;
+}
+
+a {
+    padding: 2rem;
+}

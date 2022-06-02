@@ -8,7 +8,7 @@ function NavBar() {
     <div className = 'contenedor' >
       
       <img class='logo' src={logo} alt='logo app' />
-       <span> La Tienda sin Nombre </span>
+       <span id = 'temporal'> La Tienda sin Nombre </span>
        {/* No tengo definida la tienda aún ni sus categorías */}
       
       <div class = 'barra-navegacion' >

@@ -12,8 +12,13 @@
 .barra-navegacion {
     justify-content: space-around;
     font-size: 2rem;
+    padding-top: 1rem;
 }
 
 a {
     padding: 2rem;
+}
+#temporal{
+    font-size: 1.5rem;
+    padding-top: 1.5rem;
 }
